@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zhazira_3_2</string>
+    <string name="et_mail">Введите получателя</string>
+    <string name="et_theme">Введите тему сообщения</string>
+    <string name="et_text">Введите текст сообщения</string>
+    <string name="btn_send">send</string>
+</resources>
